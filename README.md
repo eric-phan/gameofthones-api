@@ -2,7 +2,7 @@
 
  <span>Art by: <a href="https://www.behance.net/gallery/17627505/GAME-OF-THRONES-FLAT-SIGILS"> Ram de Guzman </span>
 
-<h1 align="center">Houses of Thrones App</h1>
+<h1 align="center">Game of Thrones API</h1>
 <h2 align="center">A fan-built Game of Thrones API containing information of your favorite houses.</h3>
 
 
