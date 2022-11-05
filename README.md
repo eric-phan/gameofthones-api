@@ -1,1 +1,0 @@
-# gameofthrones-api
