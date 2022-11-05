@@ -11,7 +11,7 @@
 #### Some Notes:
 - All of the great houses are included in the API.
 - I want to maintain and add more of the lesser houses to the API when I can.
-- I highly recommend watching the inital season of GoT or even thee prequel, House of the Dragon! Have fun!
+- I made a Houses of Thrones webapp using this API for fellow fans. Have fun!
 
 
 #### Tech Stuff:
@@ -28,9 +28,9 @@
 ### :star: Try it Out
 
 - API is live at: [Heroku API Page](https://got-house-emblems.herokuapp.com/)
-- Houses of Thrones App: [An implementation of GoT API](https://got-house-emblems.herokuapp.com/)
+- Houses of Thrones Webapp: [An implementation of GoT API](https://got-house-emblems.herokuapp.com/)
 
 
 ### :slightly_smiling_face: Thank you!
 
-Please check out the rest of my [Github](https://github.com/eric-phan), and the 'Houses of Thrones' repo I made with this API [here](https://github.com/eric-phan/gameofthones-api).
+Please check out the rest of my [Github](https://github.com/eric-phan), and the Houses of Thrones repo [here](https://github.com/eric-phan/gameofthones-api).
