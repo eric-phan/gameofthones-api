@@ -28,7 +28,7 @@
 ### :star: Try it Out
 
 - API is live at: [Heroku API Page](https://got-house-emblems.herokuapp.com/)
-- Houses of Thrones Webapp: [An implementation of GoT API](https://got-house-emblems.herokuapp.com/)
+- An implementation of this GoT API: [Houses of Thrones Webapp](https://got-house-emblems.herokuapp.com/)
 
 
 ### :slightly_smiling_face: Thank you!
