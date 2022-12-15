@@ -168,6 +168,11 @@ app.get("/", (request, response) => {
   // 'go to the directory where the server is running and get this...
 });
 
+// attempting to send user the greatHouses API
+app.get("/api/", (request, response) => {
+  response.json(greatHouses);
+});
+
 // use query parameter with :name after the /api
 app.get("/api/:name", (request, response) => {
   const houseName = request.params.name.toLocaleLowerCase();
