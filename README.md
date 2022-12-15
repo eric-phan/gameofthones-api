@@ -15,7 +15,7 @@
 
 
 #### Tech Stuff:
-- This API was created using Node.js an Express.
+- This API was created using Node.js and Express.
 - This is my first dedicated app that I built a backend for, and it has definitely been a rigorous learning experience that I enjoyed. I am excited to delve deeper into these tech stacks.
 
 
